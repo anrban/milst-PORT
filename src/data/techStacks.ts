@@ -1,0 +1,17 @@
+export const techStacks = [
+  "Next.js",
+  "React.js",
+  "JavaScript",
+  "AI",
+  "TypeScript",
+  "Tailwind CSS",
+  "Prisma",
+  "Python",
+  "C++",
+  "PostgreSQL",
+  "MongoDB",
+  "Redis",
+  "Postman",
+  "Vercel",
+  "Firebase",
+];

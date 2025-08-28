@@ -1,0 +1,1 @@
+export const aboutMe = `I’m an aspiring data science engineer passionate about turning data into insights. Skilled in Python, machine learning, and analytics, I love solving problems and creating impactful solutions. Always eager to learn and grow in this exciting field.`;
